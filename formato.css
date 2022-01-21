@@ -1,0 +1,36 @@
+.principal{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    padding: 100px;
+    
+}
+
+.recuadro{
+    height: 550px;
+    width: 363px;
+    border-style: solid;
+    border-color: #19a1ad;
+    border-radius: 21px;
+    
+}
+
+.recuadro_head{
+    height: 175px;
+    width: 365px;
+    margin-left: -2px;
+    border-top-left-radius: 21px;
+    border-top-right-radius: 21px;
+}
+
+.foto_fyr{
+    height: 125px;
+    width: 125px;
+    border-radius: 180px;
+    margin-top: -65px;
+    border-style: solid;
+    border-width: 6px;
+    border-color: white;
+    
+}
+
